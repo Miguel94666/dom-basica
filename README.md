@@ -1,0 +1,2 @@
+# dom-basica
+ejercicio basico 
